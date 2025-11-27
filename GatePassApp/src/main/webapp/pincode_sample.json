@@ -1,0 +1,82 @@
+{
+  "110001": {
+    "district": "New Delhi",
+    "state": "Delhi"
+  },
+  "110002": {
+    "district": "Central Delhi",
+    "state": "Delhi"
+  },
+  "110003": {
+    "district": "South Delhi",
+    "state": "Delhi"
+  },
+  "121001": {
+    "district": "Faridabad",
+    "state": "Haryana"
+  },
+  "122001": {
+    "district": "Gurugram",
+    "state": "Haryana"
+  },
+  "132103": {
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  "144001": {
+    "district": "Jalandhar",
+    "state": "Punjab"
+  },
+  "160017": {
+    "district": "Chandigarh",
+    "state": "Chandigarh"
+  },
+  "400001": {
+    "district": "Mumbai",
+    "state": "Maharashtra"
+  },
+  "411001": {
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  "440001": {
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  "500001": {
+    "district": "Hyderabad",
+    "state": "Telangana"
+  },
+  "560001": {
+    "district": "Bengaluru Urban",
+    "state": "Karnataka"
+  },
+  "600001": {
+    "district": "Chennai",
+    "state": "Tamil Nadu"
+  },
+  "641001": {
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  "700001": {
+    "district": "Kolkata",
+    "state": "West Bengal"
+  },
+  "751001": {
+    "district": "Bhubaneswar",
+    "state": "Odisha"
+  },
+  "800001": {
+    "district": "Patna",
+    "state": "Bihar"
+  },
+  "110015": {
+    "district": "West Delhi",
+    "state": "Delhi"
+  },
+  "110092": {
+    "district": "East Delhi",
+    "state": "Delhi"
+  }
+}
